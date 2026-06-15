@@ -207,14 +207,8 @@ http://127.0.0.1:5000
 
 ## 📷 Screenshots
 
-Add screenshots of:
+<img width="1911" height="907" alt="image" src="https://github.com/user-attachments/assets/daf223b4-af53-451f-b395-dd1865204bc7" />
 
-* Home Page
-* PDF Upload Interface
-* Summary Dashboard
-* Quiz Generator
-* Research Chatbot
-* PPT Generator
 
 ---
 
